@@ -1,10 +1,12 @@
-- 👋 Hi, my name is Richie van der Heij, I'm a 21 years old Software Developer from the Netherlands.
-- 👀 I’m interested in coding, creating special overlays for websites with HTML, CSS & JavaScript and learning new programming languages.
-- 💞️ I’m looking to collaborate on crypto business, website building and coding with multiple programming languages.
-- 📫 Reach me:
-  E-Mail: Richievanderheij@gmail.com
-      
-<!---
-Richievdheij/Richievdheij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Greetings,
+
+My name is Richie van der Heij, a 21-year-old Software Developer based in the Netherlands.
+I study at ROC Da Vinci College in Dordrecht,
+
+My primary focus lies in coding, particularly in crafting distinctive website overlays using HTML, CSS, Javascript and other modern technologies that fit my project.
+I am committed to continuous learning and am keen on mastering new programming languages.
+
+I am currently seeking collaboration opportunities in the realms of crypto business, website development, and coding projects involving a diverse range of programming languages.
+For any inquiries or collaboration proposals, please reach out to me via email at **Richievanderheij@gmail.com.**
+
+Thank you for considering my profile. I look forward to potential collaborations and opportunities for professional growth.
