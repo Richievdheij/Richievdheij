@@ -1,6 +1,6 @@
 Greetings,
 
-My name is Richie van der Heij, a 21-year-old Software Developer based in the Netherlands.
+My name is Richie van der Heij, a 22-year-old Software Developer based in the Netherlands.
 I study at ROC Da Vinci College in Dordrecht,
 
 My primary focus lies in coding, particularly in crafting distinctive websites using VueJS, HTML & CSS, Javascript and other modern technologies that fit my project.
