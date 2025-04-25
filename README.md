@@ -1,5 +1,3 @@
-# Richie van der Heij | Software Developer
-
 Greetings,
 
 My name is **Richie van der Heij**, a **23-year-old Software Developer** based in the Netherlands. I am currently studying **Creative Media & Game Technologies** at **Hogeschool Rotterdam**, located in Rotterdam.
@@ -48,7 +46,6 @@ I am seeking collaboration opportunities in the following areas:
 - **Coding Projects** involving a variety of programming languages and technologies.
 
 For inquiries or collaboration proposals, feel free to reach out to me at **Richievanderheij@gmail.com**.
-
 Thank you for considering my profile. I look forward to the possibility of working together on exciting projects.
 
 ---
@@ -57,15 +54,6 @@ Thank you for considering my profile. I look forward to the possibility of worki
 
 I am also a **co-owner** of [**FiksUp**](https://fiksup.nl/), an **online platform** that combines **repair services**, **communication**, and **marketplace** functionalities. FiksUp connects users with service providers, offering seamless **networking**, **transactions**, and a hub for **industry connections**.
 
----
+Follow FiksUp on our social media platforms:
 
-## **Social Media**
-
-Follow FiksUp on our social media platforms to stay updated on our latest projects, news, and more:
-
-- [Instagram](https://www.instagram.com/fiksup.nl)  
-- [LinkedIn](https://www.linkedin.com/company/fiksup/)
-- [X/Twitter](https://x.com/FiksUp_nl)  
-- [TikTok](https://www.tiktok.com/@fiksup.nl)  
-- [YouTube](https://www.youtube.com/@Fiksupofficial)  
-- [Facebook](https://www.facebook.com/profile.php?id=61572191671571)
+[Instagram](https://www.instagram.com/fiksup.nl) | [LinkedIn](https://www.linkedin.com/company/fiksup/) | [X/Twitter](https://x.com/FiksUp_nl) | [TikTok](https://www.tiktok.com/@fiksup.nl) | [YouTube](https://www.youtube.com/@Fiksupofficial) | [Facebook](https://www.facebook.com/profile.php?id=61572191671571)
