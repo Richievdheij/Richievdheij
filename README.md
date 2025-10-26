@@ -3,23 +3,25 @@ Greetings,
 My name is **Richie van der Heij**, a **23-year-old Software Developer** based in the Netherlands. I am currently studying **Creative Media & Game Technologies** at **Hogeschool Rotterdam**, located in Rotterdam.
 
 ## **Professional Focus**  
-I specialize in **full-stack development**, focusing on building **responsive and scalable web applications**. I work primarily with **Vue 3 (JavaScript)**, **HTML**, **CSS/SCSS**, and **Nest.js**, among other modern frameworks and tools. While I have experience with **PHP**, **Laravel**, and **CodeIgniter 4**, my current focus is on using **Vue 3** for front-end development and **Nest.js** for back-end development.
+I specialize in **full-stack development**, focusing on building **responsive and scalable web applications**. I work primarily with **Vue 3 (TypeScript & JavaScript)**, **HTML**, **CSS/SCSS**, and **Nest.js**, among other modern frameworks and tools. While I have experience with **PHP**, **Laravel**, and **CodeIgniter 4**, my current focus is on using **Vue 3** for front-end development and **Nest.js** for back-end development.
 
 ## **Skills & Technologies**
 
 - **Frontend**:  
   - **Vue 3** (State management with **Pinia**, routing with **Vue Router**)  
   - **JavaScript** & **TypeScript**  
-  - **HTML** & **CSS/SCSS** (Using **BEM methodology** for maintainable styling)  
+  - **HTML** & **CSS/SCSS** (Using **BEM methodology** for maintainable styling)
+  - **Vee Validate** & **Yup** (Form validation and schema validation)  
   - **Axios** (For handling HTTP requests and API integrations)  
   - **Figma** (UI/UX design and prototyping)  
   - **Vite** (For fast development builds)
+  - **Iconify** (For versatile icon sets)
+  - **ESLint** & **Prettier** (Code quality, linting, and formatting)
 
 - **Backend**:  
   - **Nest.js** (Building REST APIs, GraphQL, and server-side logic)  
-  - **Node.js** & **Express.js** (For server-side JavaScript and real-time applications)  
+  - **Node.js** (For server-side JavaScript and real-time applications)  
   - **PostgreSQL** & **MSSQL** (For database management, optimization, and migrations)  
-  - **Prisma ORM** (For database management)  
   - **JWT** & **bcrypt** (For secure authentication and password hashing)  
   - **Socket.io** (For real-time communication)
 
@@ -37,6 +39,7 @@ I specialize in **full-stack development**, focusing on building **responsive an
 - **OOP (Object-Oriented Programming)**: I utilize object-oriented principles such as classes, inheritance, and encapsulation to create robust and flexible software.
 - **SPA (Single Page Applications)**: I design dynamic and seamless user experiences using **Vue 3** for the front end and **Nest.js** for the back end.
 - **BEM Methodology**: I follow the **Block-Element-Modifier** approach for structuring my CSS/SCSS, ensuring scalability and maintainability of the codebase.
+- **Best Practices & Principles**: I follow **DRY** (Don’t Repeat Yourself), **KISS** (Keep It Simple, Stupid), **SOC** (Separation of Concerns), and SOLID principles to write clean, maintainable, and scalable code.
 
 ## **Collaboration & Opportunities**
 
