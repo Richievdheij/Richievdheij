@@ -1,5 +1,3 @@
-Greetings,
-
 My name is **Richie van der Heij**, a **23-year-old Software Developer** based in the Netherlands. I am currently studying **Creative Media & Game Technologies** at **Hogeschool Rotterdam**, located in Rotterdam.
 
 ## **Professional Focus**  
