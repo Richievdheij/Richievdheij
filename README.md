@@ -16,11 +16,11 @@ I graduated in **Software Development** from ROC Da Vinci College in Dordrecht a
 
 <h3><img src="./assets/heading-development-practices.svg" width="830" alt="Development Practices"></h3>
 
-- **Architecture**: I work/have worked in a monorepo — Feature-Sliced Design (FSD) on the frontend, a strict Controller → Service → Repository chain on the backend. Layers reference downward only and slices communicate through an explicit public API.
+- **Architecture**: I work/have worked in a monorepo with Feature-Sliced Design (FSD) on the frontend, a strict Controller → Service → Repository chain on the backend. Layers reference downward only and slices communicate through an explicit public API.
 - **Multi-tenancy**: Experience with both database-per-tenant and a single shared backend/database setup, using a shared schema with application-layer guards and PostgreSQL Row-Level Security via transaction-local session variables.
 - **Type safety**: TypeScript in strict mode, where `any` and suppressions count as defects. Contracts packages hold the shared shapes, TypeScript for the APIs and Zod for the content, so a changed shape breaks the build everywhere at once.
 - **Enforcement**: I set the architecture up so a machine checks it: FSD layers, dependency direction and code quality are CI's job, not a reviewer's.
-- **Principles**: SOLID, DRY, KISS and separation of concerns, one concern per commit.
+- **Principles**: SOLID, DRY, KISS and separation of concerns, and clean commit hygiene.
 
 <h3><img src="./assets/heading-stack.svg" width="830" alt="Tech Stack"></h3>
 
@@ -29,27 +29,12 @@ I graduated in **Software Development** from ROC Da Vinci College in Dordrecht a
 | Layer | Stack |
 | :--- | :--- |
 | **Language** | TypeScript (strict mode) |
-| **Frontend** | Nuxt 4 & Vue 3 (Composition API, Pinia, i18n), Next.js & React (Payload CMS) |
-| **Rendering** | SSR, SSG, ISR and SPA, chosen per application |
-| **Styling** | SCSS (BEM, cascade layers, design tokens) |
+| **Frontend** | Nuxt 4 & Vue 3 (Composition API, Pinia, i18n), React / Next.js, (Payload CMS), SCSS (BEM, cascade layers, design-tokens), SSR/SSG/ISR/SPA |
 | **Backend** | NestJS & Node.js (versioned REST APIs, OpenAPI/Swagger) |
-| **Database** | PostgreSQL & TypeORM (migration-owned schema, RLS) |
-| **Quality** | ESLint, Prettier & Biome, Vitest & Playwright |
-| **Tooling** | TurboRepo & pnpm workspaces (monorepo), Git & GitHub, Figma |
-
-<h4><img src="./assets/subheading-in-production.svg" alt="In production: running in what I ship today"></h4>
-
-| Area | Stack |
-| :--- | :--- |
-| **Auth** | Better-Auth (sessions, cross-subdomain SSO, TOTP 2FA, organizations, argon2id), role-based access control and everything else an account layer needs |
-| **Security** | rate limiting, CSP & HSTS, encrypted PII and backups, retention terms, audit logging |
-| **Queues** | Redis & BullMQ |
-| **Realtime** | Server-Sent Events |
-| **Email** | Amazon SES & MJML |
-| **Forms** | VeeValidate & Yup |
-| **Accessibility** | axe-core, automated contrast gates, lint rules (WCAG 2.2 AA) |
-| **Infra** | Docker & Traefik, a container and a database per client, Cloudflare R2, Sentry |
-| **CI/CD** | GitHub Actions, SOPS & age (encrypted secrets) |
+| **Database & Cache** | PostgreSQL & TypeORM (migration-owned schema, RLS), Redis, BullMQ |
+| **Infra & DevOps** | Docker & Traefik, Sentry, Cloudflare R2, GitHub Actions, SOPS & age |
+| **Quality & Sec** | ESLint, Prettier & Biome, Vitest & Playwright, Better-Auth (sessions, cross-subdomain SSO, TOTP 2FA, organizations, argon2id), role-based access control and everything else an account layer needs |
+| **Tooling** | TurboRepo & pnpm workspaces, Git & GitHub, Figma |
 
 <h3><img src="./assets/heading-fiksup.svg" width="830" alt="FiksUp"></h3>
 
@@ -57,7 +42,7 @@ I graduated in **Software Development** from ROC Da Vinci College in Dordrecht a
 
 The plans cover the common cases, and I take on custom work when a client needs something specific. The rest is on [fiksup.nl](https://fiksup.nl).
 
-The source stays private, but FiksUp is open for business. A partnership, an offer, something we build together: if it works for both sides, I want to hear it.
+The source stays private, but FiksUp is open for business. A partnership, an offer, something we build together, if it works for both sides, I want to hear it.
 
 <div align="center">
 
