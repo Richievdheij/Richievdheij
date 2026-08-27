@@ -16,8 +16,8 @@ I graduated in **Software Development** from ROC Da Vinci College in Dordrecht a
 
 <h3><img src="./assets/heading-development-practices.svg" width="830" alt="Development Practices"></h3>
 
-- **Architecture**: I work in a monorepo — Feature-Sliced Design (FSD) on the frontend, a strict Controller → Service → Repository chain on the backend. Layers reference downward only and slices communicate through an explicit public API.
-- **Multi-tenancy**: a database per tenant, or one shared schema behind Row-Level Security, enforced in the application layer as well.
+- **Architecture**: I work/have worked in a monorepo — Feature-Sliced Design (FSD) on the frontend, a strict Controller → Service → Repository chain on the backend. Layers reference downward only and slices communicate through an explicit public API.
+- **Multi-tenancy**: Experience with both database-per-tenant and a single shared backend/database setup, using a shared schema with application-layer guards and PostgreSQL Row-Level Security via transaction-local session variables.
 - **Type safety**: TypeScript in strict mode, where `any` and suppressions count as defects. Contracts packages hold the shared shapes, TypeScript for the APIs and Zod for the content, so a changed shape breaks the build everywhere at once.
 - **Enforcement**: I set the architecture up so a machine checks it: FSD layers, dependency direction and code quality are CI's job, not a reviewer's.
 - **Principles**: SOLID, DRY, KISS and separation of concerns, one concern per commit.
@@ -75,4 +75,4 @@ Open to a developer role, product work, collaborations and good engineering conv
 
 <h3><img src="./assets/heading-earlier-work.svg" alt="Earlier work"></h3>
 
-<sub>My PHP work comes from internships and early projects, in codebases that were not mine: Laravel with Inertia and Vue, CodeIgniter 4 and MSSQL, next to untyped JavaScript SPAs. It is a solid base and where the way I work now comes from. I can still read and maintain all of it; my focus moved to TypeScript.</sub>
+<sub>My PHP work comes from internships and early projects, in codebases that were not mine: Laravel with Inertia and Vue, CodeIgniter 4 and MSSQL, next to untyped JavaScript SPAs. It is a solid base and where the way I work now comes from. I can still read and maintain all of it, but my focus moved to TypeScript.</sub>
