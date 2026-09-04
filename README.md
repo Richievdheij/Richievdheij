@@ -38,7 +38,7 @@ I graduated in **Software Development** from ROC Da Vinci College in Dordrecht a
 
 <h3><img src="./assets/heading-fiksup.svg" width="830" alt="FiksUp"></h3>
 
-[**FiksUp**](https://fiksup.nl) is the platform I design, build and run. Every client gets a website on their own domain and in their own branding, a **CMS** for their content, and a **dashboard** for the daily operations around it.
+[**FiksUp**](https://fiksup.nl) is the platform I co-own, design, build and run together with [**Björn Verschoor**](https://github.com/B078). Every client gets a website on their own domain and in their own branding, a **CMS** for their content, and a **dashboard** for the daily operations around it.
 
 The plans cover the common cases, and I take on custom work when a client needs something specific. The rest is on [fiksup.nl](https://fiksup.nl).
 
