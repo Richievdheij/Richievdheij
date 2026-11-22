@@ -60,4 +60,4 @@ Open to a developer role, product work, collaborations and good engineering conv
 
 <h3><img src="./assets/heading-earlier-work.svg" alt="Earlier work"></h3>
 
-<sub>My PHP work comes from internships and early projects, in codebases that were not mine: Laravel with Inertia and Vue, CodeIgniter 4 and MSSQL, next to untyped JavaScript SPAs. It is a solid base and where the way I work now comes from. I can still read and maintain all of it, but my focus moved to TypeScript.</sub>
+<sub>A part of my PHP work comes from internships, school and early projects, in codebases that were not mine: Laravel with Inertia and Vue, CodeIgniter 4 and MSSQL, next to untyped JavaScript SPAs. It is a solid base and where the way I work now comes from. I can still read and maintain all of it, but my focus moved to TypeScript, and that goes for my other work too, such as React Native.</sub>
